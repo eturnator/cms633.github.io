@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Library circulation data '
 author: Ece Turnator
