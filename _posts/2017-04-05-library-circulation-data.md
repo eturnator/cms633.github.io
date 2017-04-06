@@ -3,6 +3,7 @@ layout: post
 published: false
 category: updates
 title: 'Library circulation data '
+author: Ece Turnator
 ---
 
 ## If you think data on library use could add value to the project you are working on, read on. 
