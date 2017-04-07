@@ -13,8 +13,3 @@ MIT Hayden Library circulation data from 2016 that includes these fields (plus a
 Catalog Title	Catalog Author Name	Catalog Year	Catalog Publisher	Library Name	Library Collection	Library Item Barcode	Library Item Description	Call Number	Call Number Sort	Catalog System Number	Library Borrower Status	Library Borrower Type
 
 Ece (pronounced AJ) Turnator@mit
-
-
-
-
-
